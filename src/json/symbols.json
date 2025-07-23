@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": 0,
+    "name": "Gorilka",
+    "minX": 10,
+    "x": 20,
+    "img":"/images/vodka.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Vitya",
+    "minX": 2,
+    "x": 5,
+    "img":"/images/vitya.png"
+  },
+  {
+    "id": 2,
+    "name": "Dima",
+    "minX": 3,
+    "x": 6,
+    "img":"/images/dima.png"
+  }
+]
